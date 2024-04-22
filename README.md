@@ -5,7 +5,7 @@
 #Pre-requisites
 you must have foundry installed, [check here](https://book.getfoundry.sh/getting-started/installation)
 
-##in .env file add the following 
+##add .env file add the following 
 
 PRIVATE_KEY="..."
 
